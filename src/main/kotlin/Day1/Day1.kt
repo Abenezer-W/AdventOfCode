@@ -1,7 +1,6 @@
-package com.example
+package com.example.Day1
 
-import kotlin.math.abs
-import kotlin.math.sign
+import com.example.readFileToString
 
 
 fun main() {
