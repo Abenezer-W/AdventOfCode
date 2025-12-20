@@ -12,3 +12,4 @@ fun repeatWord(word: String, times: Int) : String{
     repeat(times){sb.append(word)}
     return sb.toString()
 }
+
